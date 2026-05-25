@@ -6,7 +6,7 @@ Car price analysis and prediction using Python and machine learning.
 ## Task Information
 - **Task Number:** Task 3
 - **Project Name:** Car Price Analysis and Prediction
-- **Author:** Pranav Panara
+- **Author:** Stuti Bakrania
 
 ---
 
@@ -55,6 +55,7 @@ The dataset contains information related to:
 - `Stuti_Task3.ipynb`
 - `Car_Data.csv`
 - `README.md`
+- ![Screenshot](Task_3_ss.png)
 
 ---
 
@@ -62,8 +63,6 @@ The dataset contains information related to:
 The project analyzes car market data and predicts car selling prices using machine learning techniques.
 
 ---
+## Output Screenshot
 
-## GitHub Repository
-Project submitted through GitHub repository as per submission instructions.
-
----
+![Screenshot](Task_3_ss.png)
